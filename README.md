@@ -7,13 +7,10 @@ Hi! My name is **Abdulrahman**, I have studied **Computer** **Engineering** at _
 | READ | LINK |
 | --- | --- |
 | Read-03 | [Read-03](https://abdulrahman-19.github.io/reading-notes/read-03) |
-| Read-05 | [Read-05](https://abdulrahman-19.github.io/reading-notes/read-05)  |
+| Read-05 | [Read-05](https://abdulrahman-19.github.io/reading-notes/read-05) |
 
 
 
-**bold**
-
-#### list
 
 **orderd list**
 
