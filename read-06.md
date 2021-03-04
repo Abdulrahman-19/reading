@@ -1,13 +1,13 @@
 # Java script
 
-## introduction
+## Introduction
    In order to understand js and start using it in your code you should know the basics of **HTML** & **CSS**.
 
    - Unerstanding com **basic programing concepts** and the terms of _Javascript_ .
    - learning the language itself.
    - Becoming familiar with **how it is  applied**
 
-## the use of javascript
+## The use of javascript
 
 1. **Access content**
    you can use **Javascript** to select any element,attribute, or text from an _HTML_ page.
