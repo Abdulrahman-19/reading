@@ -14,5 +14,6 @@ Hi! My name is **Abdulrahman**, I have studied **Computer** **Engineering** at _
 | READ | LINK |
 | --- | --- |
 | Read-01 | [class-01](<https://abdulrahman-19.github.io/reading-notes/class-01>) |
+| Read-02 | [class-02](<https://abdulrahman-19.github.io/reading-notes/class-02>) |
 
 ![gitHub](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
