@@ -46,18 +46,18 @@ n this example, the purpose of the switch statement is to present the user with 
 
 var msg; <br>
 var level = 2; <br>
-switch (level) {
-case 1:
-    msg = 'Good luck on the first test ' ;
-    break;
-case 2:
-    msg = 'Second of three - keep going!';
-    break;
-case 3:
-    msg = ' Final round, al most there!';
-    break;
-default :
-    msg = 'Good l uck!';
-    break;
-var el = document.getEl ementByld('answer');
-el .textContent = msg;
+switch (level) { <br>
+case 1: <br>
+    msg = 'Good luck on the first test ' ; <br>
+    break; <br>
+case 2: <br>
+    msg = 'Second of three - keep going!'; <br>
+    break; <br>
+case 3: <br>
+    msg = ' Final round, al most there!'; <br>
+    break; <br>
+default : <br>
+    msg = 'Good luck!'; <br>
+    break;<br>
+var el = document.getEl ementByld('answer');  <br>
+el .textContent = msg; 
