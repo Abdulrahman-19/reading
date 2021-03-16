@@ -45,19 +45,35 @@ You can set several properties that affect the appearance of these boxes. In thi
 n this example, the purpose of the switch statement is to present the user with a different message depending on which level they are at. The message is stored in a variable called msg.
 
 var msg;
+
 var level = 2;
+
 switch (level) {
+
 case 1:
+
     msg = 'Good luck on the first test ' ;
+
     break;
+
 case 2:
+
     msg = 'Second of three - keep going!';
+
     break;
+
 case 3:
+
     msg = ' Final round, al most there!';
+
     break;
+
 default :
+
     msg = 'Good l uck!';
+
     break;
+
 var el = document.getEl ementByld('answer');
+
 el .textContent = msg;
