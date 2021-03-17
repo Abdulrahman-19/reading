@@ -40,7 +40,7 @@ You can set several properties that affect the appearance of these boxes. In thi
 - Expressions evaluate into a single value.
 - Expressions rely on operators to calculate a value.
 
-# Decisions and Loops
+## Decisions and Loops
 
 n this example, the purpose of the switch statement is to present the user with a different message depending on which level they are at. The message is stored in a variable called msg.
 
@@ -70,7 +70,11 @@ case 3:
 
 default :
 
+<<<<<<< HEAD
     msg = 'Good l uck!';
+=======
+    msg = 'Good luck!';
+>>>>>>> abbdd6e442a07e2b0c5c2c5f8819d075175b6816
 
     break;
 
