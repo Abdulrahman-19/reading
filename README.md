@@ -21,7 +21,6 @@ Hi! My name is **Abdulrahman**, I have studied **Computer** **Engineering** at _
 | Read-03 | [class-04](https://abdulrahman-19.github.io/reading-notes/class-04) |
 | Read-05 | [class-05](https://abdulrahman-19.github.io/reading-notes/class-05) |
 
-
 ### Code 301 - Intermediate Software Development
 
 | READ | LINK |
@@ -31,6 +30,5 @@ Hi! My name is **Abdulrahman**, I have studied **Computer** **Engineering** at _
 | Read-03 |  |
 | Read-03 |  |
 | Read-05 |  |
-
 
 ![gitHub](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
